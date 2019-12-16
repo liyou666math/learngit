@@ -1,3 +1,3 @@
 git is a version control system
 git is easy
-history learning
+history learning append GPL.
